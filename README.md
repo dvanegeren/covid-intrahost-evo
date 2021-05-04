@@ -1,1 +1,7 @@
-# covid-intrahost-evo
+# Simulation of within-host evolution of SARS-CoV-2
+
+Python code for reproducing simulations and plot simulation data for "Controlling long-term SARS-CoV-2 infections is important for slowing viral evolution" by Van Egeren et al.
+
+Preprint at https://www.medrxiv.org/content/10.1101/2021.04.10.21255251v1
+
+Questions? Contact Debra at debra.vanegeren@gmail.com.
